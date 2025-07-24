@@ -1,0 +1,15 @@
+.img{
+    background-image: url("assets/Woman.jpeg");
+    background-position: center;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    padding: 200px 50px;
+
+}
+
+.services{
+    background-image: url("assets/Frame\ 4.png");
+    background-position: center;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
